@@ -1,1 +1,2 @@
 # Basketball-Roster-Manager-Project-M4
+I’d like feedback on whether the roster menu is easy to follow and whether the UML diagrams match what the code actually does, especially when you assign a new starter to a position that’s already filled. Right now, the program only keeps the roster while it’s running. If I have time for one more feature, would you rather be able to save and reload your team or sort the roster by more than just points?
